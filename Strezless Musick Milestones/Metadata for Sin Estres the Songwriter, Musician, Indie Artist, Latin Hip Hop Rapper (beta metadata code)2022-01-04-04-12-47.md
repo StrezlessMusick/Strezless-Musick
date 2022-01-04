@@ -1,7 +1,5 @@
 ---
-created: 2022-01-04T04:12:47-06:00
-modified: 2022-01-04T04:33:34-06:00
-tags: [**Strezless_Musick_Productionz**, Omar Dejesu Orrantia, Sin Estres, Strezless Musick Metadata, Strezless Musick Productionz]
+modified: 2022-01-04T05:04:41-06:00
 ---
 
 # metadata for Sin Estres who is legally Omar Dejesu Orrantia
@@ -21,3 +19,5 @@ ________________________________________________
  [Sin Estres the Latin Hip Hop indie artist YouTube Channel](https://www.youtube.com/c/SinEstresOrrantia)
 
 #**Strezless_Musick_Productionz**
+
+#33
